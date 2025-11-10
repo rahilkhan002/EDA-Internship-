@@ -137,11 +137,6 @@ COVID-19 time series (India)
 
 Vaccination trend
 
-🧾 Author
-
-Rahil Khan
-📍 Data Science & Analytics Enthusiast
-🔗 LinkedIn
 
 ⭐ Future Improvements
 
@@ -150,3 +145,8 @@ Add interactive dashboards (Plotly or Power BI)
 Automate country selection for analysis
 
 Integrate predictive modeling for case forecasting
+🧾 Author
+
+Rahil Khan
+📍 Data Science & Analytics Enthusiast
+🔗 LinkedIn Profile: https://www.linkedin.com/in/rahil-khan-06a653297/
